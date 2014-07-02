@@ -1,0 +1,12 @@
+{
+  "name": "Protist-Player",
+  "scripts": {
+    "prepublish": "gulp"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "~3.8.5",
+    "gulp-clean": "~0.3.1",
+    "gulp-shell": "~0.2.7"
+  }
+}

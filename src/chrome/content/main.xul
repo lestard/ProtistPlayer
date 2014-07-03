@@ -8,12 +8,20 @@
 	width="1000"
 	height="700"
 	xmlns="http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul">
-	
+
+    <script type="application/javascript" src="chrome://protistplayer/content/js/modules.js"/>
+
+
 	<keyset>
 		<!--  reload the window and js with F5 key for easy development -->
 		<key id="reloadWindow-key" keycode="VK_F5" oncommand="window.location.reload();"/>
 	</keyset>
-	
-	<caption label="Hello World" />
 
+	<caption label="Test 123" id="helloWorldLabel"/>
+
+
+
+    <button label="Test" id="testButton"/>
+
+    <script type="application/javascript" src="chrome://protistplayer/content/js/main.js"/>
 </window>

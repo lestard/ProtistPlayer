@@ -1,4 +1,4 @@
-content		protist						content/
-skin		protist		default/1.0		skin/default/
-locale		protist		en-US			locale/en-US/
+content		protistplayer						content/
+skin		protistplayer		default/1.0		skin/default/
+locale		protistplayer		en-US			locale/en-US/
 
